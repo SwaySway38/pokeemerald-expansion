@@ -107,7 +107,7 @@ VerdanturfTown_WandasHouse_Text_WallysNextDoor:
 	.string "tell you.\p"
 	.string "This natural environment is doing\n"
 	.string "wonders for WALLY's health.\p"
-	.string "Maybe it's not just the environment.\n"
+	.string "WHITEbe it's not just the environment.\n"
 	.string "It could be POKéMON that are giving\l"
 	.string "the boy hope.$"
 

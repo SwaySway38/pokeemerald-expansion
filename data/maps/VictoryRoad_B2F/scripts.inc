@@ -44,7 +44,7 @@ VictoryRoad_B2F_Text_VitoPostBattle:
 	.string "I was better than everyone in my\n"
 	.string "family. I've never lost before…\p"
 	.string "I've lost my confidence…\n"
-	.string "Maybe I'll go home…$"
+	.string "WHITEbe I'll go home…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
 	.string "I'd heard that there was a tough\n"

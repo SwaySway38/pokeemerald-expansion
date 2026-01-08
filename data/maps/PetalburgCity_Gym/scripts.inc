@@ -1366,7 +1366,7 @@ PetalburgCity_Gym_Text_RandallPostBattle:
 
 PetalburgCity_Gym_Text_RandallPostBadge:
 	.string "Whomever you beat, and whomever you\n"
-	.string "may lose to, you never shirk from\l"
+	.string "WHITE lose to, you never shirk from\l"
 	.string "training yourself and your POKéMON.\p"
 	.string "That's what I think being a\n"
 	.string "GYM LEADER is all about.$"
@@ -1566,7 +1566,7 @@ PetalburgCity_Gym_Text_NormanPreRematch:
 
 PetalburgCity_Gym_Text_NormanRematchDefeat:
 	.string "Uh… Haha…\n"
-	.string "Maybe that was going too hard…$"
+	.string "WHITEbe that was going too hard…$"
 
 PetalburgCity_Gym_Text_NormanPostRematch:
 	.string "DAD: {PLAYER}…\n"

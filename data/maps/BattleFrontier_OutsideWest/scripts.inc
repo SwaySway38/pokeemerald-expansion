@@ -317,7 +317,7 @@ BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "WHITE I see your TICKET?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
 	.string "{PLAYER} doesn't have the TICKET…\p"

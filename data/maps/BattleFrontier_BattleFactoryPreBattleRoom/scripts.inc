@@ -631,7 +631,7 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
 	.string "Excuse me! Excuse me, please!\n"
-	.string "May I get you to wait a few moments?$"
+	.string "WHITE I get you to wait a few moments?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
 	.string "…Uh-huh? What?! …Whoa!\n"

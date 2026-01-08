@@ -53,6 +53,6 @@ SeafloorCavern_Room3_Text_Grunt5PostBattle:
 	.string "the motives of our leader.\p"
 	.string "But here you are, just some punk,\n"
 	.string "going up against our BOSS.\p"
-	.string "Maybe…\n"
+	.string "WHITEbe…\n"
 	.string "You must be something…$"
 

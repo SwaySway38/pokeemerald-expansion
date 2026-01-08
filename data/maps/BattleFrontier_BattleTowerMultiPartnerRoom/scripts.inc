@@ -997,7 +997,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon1::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon2Ask::
 	.string "one {STR_VAR_2} with {STR_VAR_1}!\n"
-	.string "May I please be on your tag team?$"
+	.string "WHITE I please be on your tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFAccept::
 	.string "Thank you!\n"
@@ -1187,7 +1187,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon1::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon2Ask::
 	.string "one {STR_VAR_1}-using {STR_VAR_2}.\p"
-	.string "May I ask you to join me in a tag-team\n"
+	.string "WHITE I ask you to join me in a tag-team\n"
 	.string "partnership arrangement?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanAccept::
@@ -1670,7 +1670,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon1::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon2Ask::
 	.string "and one {STR_VAR_1}-using\n"
 	.string "{STR_VAR_2} are my POKéMON pair.\p"
-	.string "May I please be your partner on\n"
+	.string "WHITE I please be your partner on\n"
 	.string "a tag team?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFAccept::
@@ -1679,7 +1679,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFAccept::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFReject::
 	.string "Please?\n"
-	.string "May I join you the next time?$"
+	.string "WHITE I join you the next time?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFIntro::
 	.string "Hiya! The name's {STR_VAR_1}!\n"

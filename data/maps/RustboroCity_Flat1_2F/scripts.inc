@@ -132,7 +132,7 @@ RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "WHITEbe WALDA is one serious child…$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "Oh, so you don't know any good words.\n"
@@ -145,7 +145,7 @@ RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "WHITEbe WALDA is one serious child…$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
 	.string "Oh, so you don't know any good words.\n"

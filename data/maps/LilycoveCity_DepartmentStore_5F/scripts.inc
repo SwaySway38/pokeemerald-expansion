@@ -154,7 +154,7 @@ LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
 	.string "They sell many cute MATS here.\p"
 	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "WHITEbe I'll buy them all…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
 	.string "I think they closed the rooftop\n"

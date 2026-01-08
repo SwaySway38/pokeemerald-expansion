@@ -420,19 +420,19 @@ Route116_Text_CanYouHelpMeFindGlasses:
 
 Route116_Text_MayISeeThoseGlasses:
 	.string "Those glasses!\n"
-	.string "May I see them for a second?$"
+	.string "WHITE I see them for a second?$"
 
 Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
 	.string "Hmm…\n"
 	.string "These are BLACKGLASSES.\l"
 	.string "They're not what I'm looking for…\p"
-	.string "Maybe my glasses aren't around\n"
+	.string "WHITEbe my glasses aren't around\n"
 	.string "here…$"
 
 Route116_Text_CantFindGlassesNotHere:
 	.string "Hmm…\n"
 	.string "I can't find my glasses anywhere…\l"
-	.string "Maybe they're not around here…$"
+	.string "WHITEbe they're not around here…$"
 
 Route116_Text_NotWhatImLookingFor:
 	.string "Hmm…\n"

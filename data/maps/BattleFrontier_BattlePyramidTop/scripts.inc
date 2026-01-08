@@ -322,7 +322,7 @@ BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
 	.string "Ah, yes! It just goes to show that\n"
 	.string "I have much to learn still!\p"
-	.string "May our paths cross again!\n"
+	.string "WHITE our paths cross again!\n"
 	.string "Farewell for now, young explorer!$"
 
 BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady:

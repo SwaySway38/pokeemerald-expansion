@@ -1611,7 +1611,7 @@ SootopolisCity_Text_TryingMeaninglessToPokemon:
 	.string "to its normal state…\p"
 	.string "Haha…\n"
 	.string "Hahaha…\p"
-	.string "Maybe what we were trying to do was\n"
+	.string "WHITEbe what we were trying to do was\n"
 	.string "something small, even meaningless,\l"
 	.string "to POKéMON…$"
 

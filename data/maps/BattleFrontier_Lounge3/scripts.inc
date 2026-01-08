@@ -450,7 +450,7 @@ BattleFrontier_Lounge3_Text_Oh::
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer::
 	.string "I backed the wrong TRAINER again!\p"
-	.string "Maybe I should be battling normally\n"
+	.string "WHITEbe I should be battling normally\n"
 	.string "like everyone else…$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::

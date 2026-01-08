@@ -544,7 +544,7 @@ LilycoveCity_Harbor_Text_FerryUnavailable:
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "WHITE I see your TICKET?$"
 
 LilycoveCity_Harbor_Text_NoTicket:
 	.string "{PLAYER} doesn't have the TICKET…\p"

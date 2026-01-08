@@ -252,7 +252,7 @@ MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
 	.string "Oh, I get it, you stored it using your PC.\p"
 	.string "Well, take it out of PC storage,\n"
 	.string "and I'll be happy to exchange it!\p"
-	.string "May the wind always be at your back\n"
+	.string "WHITE the wind always be at your back\n"
 	.string "on your adventure!$"
 
 MauvilleCity_BikeShop_Text_HandbooksAreInBack:

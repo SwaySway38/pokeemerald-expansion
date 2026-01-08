@@ -752,7 +752,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne:
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
 	.string "Wow, you really are strong.\n"
-	.string "Maybe even stronger than {STR_VAR_1}.\p"
+	.string "WHITEbe even stronger than {STR_VAR_1}.\p"
 	.string "But {STR_VAR_1} needs me.\p"
 	.string "If I don't cheer for {STR_VAR_1},\n"
 	.string "who will?$"
