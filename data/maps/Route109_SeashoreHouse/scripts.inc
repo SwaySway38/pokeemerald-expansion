@@ -166,7 +166,7 @@ Route109_SeashoreHouse_Text_JohannaDefeated:
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
 	.string "Whew, I'm all thirsty.\n"
-	.string "Maybe I'll have a SODA POP.$"
+	.string "WHITEbe I'll have a SODA POP.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
 	.string "I'm going to show you how great\n"

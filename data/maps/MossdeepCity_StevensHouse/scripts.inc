@@ -205,7 +205,7 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "Inside it is a BELDUM, my favorite\n"
 	.string "POKéMON.\p"
 	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
+	.string "WHITE our paths cross someday.\p"
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:

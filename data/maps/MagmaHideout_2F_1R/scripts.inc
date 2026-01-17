@@ -48,7 +48,7 @@ MagmaHideout_2F_1R_Text_Grunt3Defeat:
 	.string "I concede!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
-	.string "Maybe it would've been better if I did\n"
+	.string "WHITEbe it would've been better if I did\n"
 	.string "just let you go unchallenged…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:

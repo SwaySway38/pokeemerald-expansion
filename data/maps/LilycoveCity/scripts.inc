@@ -410,7 +410,7 @@ LilycoveCity_EventScript_DontKnowAboutBerryBlender::
 	return
 
 LilycoveCity_Text_MayShoppingLetsBattle:
-	.string "MAY: Oh, hey?\n"
+	.string "WHITE: Oh, hey?\n"
 	.string "{PLAYER}{KUN}, are you shopping, too?\p"
 	.string "I bought a whole bunch of DOLLS and\n"
 	.string "POSTERS.\p"
@@ -423,17 +423,17 @@ LilycoveCity_Text_MayShoppingLetsBattle:
 	.string "me your POKéMON, {PLAYER}{KUN}.$"
 
 LilycoveCity_Text_MayNotRaisingPokemon:
-	.string "MAY: Oh, why? {PLAYER}{KUN}, haven't you\n"
+	.string "WHITE: Oh, why? {PLAYER}{KUN}, haven't you\n"
 	.string "been raising your POKéMON?\p"
 	.string "That's not a very good showing as a\n"
 	.string "TRAINER…$"
 
 LilycoveCity_Text_MayBattleMe:
-	.string "MAY: Come on, battle with me, so I can\n"
+	.string "WHITE: Come on, battle with me, so I can\n"
 	.string "check out your POKéMON!$"
 
 LilycoveCity_Text_MayWontBeBeaten:
-	.string "MAY: The POKéMON I raised won't be\n"
+	.string "WHITE: The POKéMON I raised won't be\n"
 	.string "beaten by your POKéMON, {PLAYER}{KUN}!$"
 
 LilycoveCity_Text_MayDefeat:
@@ -444,7 +444,7 @@ LilycoveCity_Text_MayDefeat:
 	.string "strong, {PLAYER}{KUN}, didn't it?$"
 
 LilycoveCity_Text_MayGoingBackToLittleroot:
-	.string "MAY: I'm thinking of going back to\n"
+	.string "WHITE: I'm thinking of going back to\n"
 	.string "LITTLEROOT soon.\p"
 	.string "I've caught a decent group of POKéMON,\n"
 	.string "and my POKéDEX is coming along, so\l"
@@ -480,7 +480,7 @@ LilycoveCity_Text_MayYouGoingToBattleFrontier:
 	.string "See you!$"
 
 LilycoveCity_Text_BrendanShoppingLetsBattle:
-	.string "BRENDAN: Oh, hey, it's {PLAYER}.\p"
+	.string "BLACK: Oh, hey, it's {PLAYER}.\p"
 	.string "I'm running an errand for my dad.\n"
 	.string "No, I'm not buying any DOLLS.\p"
 	.string "Anyways, it's been a while.\p"
@@ -488,15 +488,15 @@ LilycoveCity_Text_BrendanShoppingLetsBattle:
 	.string "raising POKéMON better?$"
 
 LilycoveCity_Text_BrendanNoConfidence:
-	.string "BRENDAN: Oh, what's the matter?\n"
+	.string "BLACK: Oh, what's the matter?\n"
 	.string "Don't have the confidence?$"
 
 LilycoveCity_Text_BrendanBattleMe:
-	.string "BRENDAN: Want to battle to see who's\n"
+	.string "BLACK: Want to battle to see who's\n"
 	.string "been raising POKéMON better?$"
 
 LilycoveCity_Text_BrendanWontBeBeaten:
-	.string "BRENDAN: Aww, but you know I'm not\n"
+	.string "BLACK: Aww, but you know I'm not\n"
 	.string "going to lose to no {PLAYER}.$"
 
 LilycoveCity_Text_BrendanDefeat:
@@ -506,7 +506,7 @@ LilycoveCity_Text_BrendanDefeat:
 	.string "on you as a TRAINER…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
-	.string "BRENDAN: I…\n"
+	.string "BLACK: I…\n"
 	.string "I plan on going home to LITTLEROOT.\p"
 	.string "You know I'm helping out my dad on his\n"
 	.string "POKéDEX. It's coming together pretty\l"
@@ -516,7 +516,7 @@ LilycoveCity_Text_BrendanYouGoingToCollectBadges:
 	.string "{PLAYER}, what are you going to do?\p"
 	.string "Collect all the GYM BADGES and take\n"
 	.string "the POKéMON LEAGUE challenge?\p"
-	.string "Maybe I'll do that, too…\p"
+	.string "WHITEbe I'll do that, too…\p"
 	.string "Well, anyway, hang in there!$"
 
 LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
@@ -538,7 +538,7 @@ LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "consider the BATTLE FRONTIER.\p"
 	.string "Heh, if I train my POKéMON a bit more,\n"
 	.string "I'll get stronger than you, {PLAYER}.\p"
-	.string "Maybe I should go to the BATTLE\n"
+	.string "WHITEbe I should go to the BATTLE\n"
 	.string "FRONTIER.\p"
 	.string "Well, anyway, hang in there!$"
 

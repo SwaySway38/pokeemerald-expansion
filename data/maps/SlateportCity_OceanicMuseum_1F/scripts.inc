@@ -373,6 +373,6 @@ SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
 	.string "A strange machine is rotating under\n"
 	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
+	.string "WHITEbe it's for measuring the depth\n"
 	.string "of something…$"
 

@@ -388,7 +388,7 @@ SlateportCity_Harbor_Text_FerryServiceUnavailable:
 
 SlateportCity_Harbor_Text_MayISeeYourTicket:
 	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your TICKET?$"
+	.string "WHITE I see your TICKET?$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
 	.string "{PLAYER} doesn't have the TICKET…\p"

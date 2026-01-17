@@ -24,7 +24,7 @@ const u8 gEasyChatWord_Flame[] = _("FLAME");
 const u8 gEasyChatWord_Gold[] = _("GOLD");
 const u8 gEasyChatWord_Leaf[] = _("LEAF");
 const u8 gEasyChatWord_Silver[] = _("SILVER");
-const u8 gEasyChatWord_Emerald[] = _("EMERALD");
+const u8 gEasyChatWord_Emerald[] = _("AURORA");
 
 const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     [EC_INDEX(EC_WORD_I_CHOOSE_YOU)] =

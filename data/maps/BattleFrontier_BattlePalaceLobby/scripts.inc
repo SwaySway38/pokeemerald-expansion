@@ -611,7 +611,7 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics:
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature:
 	.string "Depending on its nature, a POKéMON\n"
-	.string "may prefer to attack no matter what.\p"
+	.string "WHITE prefer to attack no matter what.\p"
 	.string "Another POKéMON may prefer to protect\n"
 	.string "itself from any harm.\p"
 	.string "Yet another may enjoy vexing or\n"

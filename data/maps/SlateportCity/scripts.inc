@@ -1321,7 +1321,7 @@ SlateportCity_Text_YouDroveTeamAquaAway:
 
 SlateportCity_Text_MaybeThisTrainer:
 	.string "SCOTT: Hmm…\n"
-	.string "Maybe, just maybe, this TRAINER…$"
+	.string "WHITEbe, just maybe, this TRAINER…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
 	.string "SCOTT: All right! I think you're going\n"

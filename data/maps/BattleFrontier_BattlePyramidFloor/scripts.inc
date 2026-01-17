@@ -634,31 +634,31 @@ BattlePyramid_Text_ZeroTrainersRemaining3::
 	.string "on this floor.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the seven TRAINERS left on this floor.$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the six TRAINERS left on this floor.$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the five TRAINERS left on this floor.$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the four TRAINERS left on this floor.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the three TRAINERS left on this floor.$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
-	.string "Maybe you could sweep through\n"
+	.string "WHITEbe you could sweep through\n"
 	.string "the two TRAINERS left on this floor.$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
-	.string "Maybe you could complete your sweep\n"
+	.string "WHITEbe you could complete your sweep\n"
 	.string "with the one TRAINER left on this floor.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4::

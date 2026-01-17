@@ -44,7 +44,7 @@ FallarborTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
 	.string "We do all right in the preliminary round,\n"
 	.string "but we can never win the appeals…\p"
-	.string "Maybe it means I have to watch what\n"
+	.string "WHITEbe it means I have to watch what\n"
 	.string "other contestants are doing…$"
 
 @ Unused
